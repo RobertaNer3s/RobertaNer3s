@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobertaNer3s
-- 👀  Sou uma DEV em construção
+- 👀 I'm a DEV under construction
 - 🌱 I’m currently learning  HTML5, CSS3, PYTHON E JAVASCRIPT   
-- 💞️ I’m looking to uma oportunidade no mercado de trabalho
+- 💞️ I’m looking for an opportunity in the job market
 - 📫 How to reach me  https://www.linkedin.com/in/robertha-rocha-b09483112/
 
 <!---
