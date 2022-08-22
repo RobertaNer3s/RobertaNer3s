@@ -9,7 +9,18 @@ Hello I'm Roberta Neres  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roberta-neres-b09483112/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertaner3s&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertaner3s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertaner3s&layout=compact&langs_count=7&theme=dracula"/>
+
+</br>
+
+## ✨ &nbsp; **About myself**
+- 👨🏽‍💻 &nbsp; I am currently an intern in the development area.
+- 📚 &nbsp; I'm currently learning ReactJS, NextJS, NodeJS and Python.
+- ⚡️ &nbsp; I'm enthusiastic about new technologies, in iot and in programming languages
+- 📫 &nbsp; How to reach me: [click here](mailto:Robertha07rocha@gmail.com)
+
+
+## ⚙️ &nbsp; **Technologies and tools**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
