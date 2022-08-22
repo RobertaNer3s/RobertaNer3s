@@ -14,7 +14,7 @@ Hello I'm Roberta Neres  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/
 </br>
 
 ## ✨ &nbsp; **About myself**
-- 👨🏽‍💻 &nbsp; I am currently an intern in the development area.
+- 👩‍💻 &nbsp; I am currently an intern in the development area.
 - 📚 &nbsp; I'm currently learning ReactJS, NextJS, NodeJS and Python.
 - ⚡️ &nbsp; I'm enthusiastic about new technologies, in iot and in programming languages
 - 📫 &nbsp; How to reach me: [click here](mailto:Robertha07rocha@gmail.com)
