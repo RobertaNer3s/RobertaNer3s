@@ -14,8 +14,9 @@ Hello I'm Roberta Neres  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/
 </br>
 
 ## ✨ &nbsp; **About myself**
-- 👩‍💻 &nbsp; I am currently an intern in the development area.
-- 📚 &nbsp; I'm currently learning ReactJS, NextJS, NodeJS and Python.
+- 👩‍💻 &nbsp; I'm currently work as a junior front-end developer
+- 📚 &nbsp; Currently working with Angular
+- 📚 &nbsp; Currently learning ReactJS, NextJS and Python.
 - ⚡️ &nbsp; I'm enthusiastic about new technologies, in iot and in programming languages
 - 📫 &nbsp; How to reach me: [click here](mailto:Robertha07rocha@gmail.com)
 
@@ -30,7 +31,11 @@ Hello I'm Roberta Neres  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
 </div>
+ <img align="right" width="200" src="https://user-images.githubusercontent.com/98244458/208252260-e700f1c8-340b-423a-840f-a74d48bf729b.gif"/>
+
+
 
 <!---
 RobertaNer3s/RobertaNer3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
