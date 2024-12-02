@@ -3,7 +3,7 @@
 Hello I'm Roberta Neres  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
-<h5> I'm 28 years old, I'm graduated in Law and I started a career transition in 2021 to the technology area, I'm currently studying the seventh period of Computer Science. I'm passionate about technology and I'm always looking for new learning, I love challenges and talking about current affairs. </h5> </br>
+<h5> I'm 29 years old, I'm graduated in Law and I started a career transition in 2021 to the technology area, I'm currently studying the seventh period of Computer Science. I'm passionate about technology and I'm always looking for new learning, I love challenges and talking about current affairs. </h5> </br>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:robertha07rocha@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roberta-neres-b09483112/)
